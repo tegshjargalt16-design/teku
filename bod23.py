@@ -1,0 +1,17 @@
+
+ner = input("Tergel: ")
+
+print()
+print("      💗💗💗     💗💗💗")
+print("    💖💖💖💖💖 💖💖💖💖💖")
+print("   💕💕💕💕💕💕💕💕💕💕💕")
+print("   💗💗💗💗💗💗💗💗💗💗💗")
+print("    💖💖💖💖💖💖💖💖💖")
+print("      💕💕💕💕💕💕💕")
+print("        💗💗💗💗💗")
+print("          💖💖💖")
+print("            💗")
+print()
+print("💖💗💕❤️  " + ner + "  ❤️💕💗💖")
+print()
+print("       💌 CHAMDAA HAIRTAA 💌")
